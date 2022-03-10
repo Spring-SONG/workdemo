@@ -1,8 +1,7 @@
-package com.song.testdemo1.demo;
+package com.song.testdemo1.treadtest;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 /**
  * @Description:
